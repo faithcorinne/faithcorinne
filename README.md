@@ -1,5 +1,3 @@
-![Code, but make it art.](https://i.ibb.co/gVStNzX/I-code.jpg)
-
 My name is Faith and I'm currently sleeping easy at Kryo as a Front-end engineer. Originally hailing from North Carolina, I've worked in several web app dev shops — both as a QA and developer — in the nation's capital, but now call Charlotte my home. I'm currently deep diving into the world of e-commerece via Shopify and having a lot of fun doing so.
 
 In my spare time I'm usually hanging off of things, doing yoga, or baking an obscene amount of baked goods. I have a few side projects I'm currently working on (aren't we all?), but we'll talk about that some other time.
