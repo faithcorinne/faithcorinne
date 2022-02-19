@@ -1,6 +1,22 @@
-My name is Faith and I'm currently sleeping easy at Kryo as a Front-end engineer. Originally hailing from North Carolina, I've worked in several web app dev shops — both as a QA and developer — in the nation's capital, but now call Charlotte my home. I'm currently deep diving into the world of e-commerece via Shopify and having a lot of fun doing so.
+Hi, I'm Faith ✨
 
-In my spare time I'm usually hanging off of things, doing yoga, or baking an obscene amount of baked goods. I have a few side projects I'm currently working on (aren't we all?), but we'll talk about that some other time.
+### A little about me
+Residing in beatiful CLT <br>
+**Currently** — Front-end Engineer @ Sleepme Inc. → Vue3, Nuxt, HTML5, SASS, Jest, Cypress <br>
+*Previously* — QA Engineer @ Brightspot, Frontend Engineer @ Deloitte Digital <br>
+
+### Outside of work...
+- Secret Project (2021 - 2022) — a creative coding experience with @patszot
+- UI Designer for @ Hackernoon (2019) — created the first iteration of their homepage, article, and search experiences for the sites launch
+- Eteoy Atelier (2021 → ) — working with a premier black creative to launch the first of his homegrown luxury clothing line
+
+### My (visible) Stats
+<a href="https://github.com/faithcorinne/github-readme-stats">
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=faithcorinne&count_private=true&show_icons=true&theme=radical" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=faithcorinne" />
+</a>
 
 <!--
 **faithcorinne/faithcorinne** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
