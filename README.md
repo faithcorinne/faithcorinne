@@ -8,7 +8,7 @@ Residing in beatiful CLT <br>
 ### Outside of work...
 - Secret Project (2021 - 2022) — a creative coding experience with @patszot
 - UI Designer for @ [Hackernoon](https://hackernoon.com/) (2019) — created the first iteration of their homepage, article, and search experiences for the sites launch
-- (Eteoy Atelier)[https://www.eteoy.com/] (2021 → ) — working with a premier black creative to launch the first of his homegrown luxury clothing line
+- [Eteoy Atelier](https://www.eteoy.com/) (2021 → ) — working with a premier black creative to launch the first of his homegrown luxury clothing line
 
 ### My (visible) Stats
 <a href="https://github.com/faithcorinne/github-readme-stats">
