@@ -12,7 +12,7 @@ I'm a Frontend Engineer (E2) @ [Sleepme Inc.](https://sleep.me/) working to brin
 #### 👩🏽‍🏫 Currently Learning
  <img src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" /> <img src="https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white" /> <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
  
- #### Other Tools I Use/Like
+ #### 🛠 Other Tools I Use/Like
  <img src="https://img.shields.io/badge/Invision-FF3366?style=for-the-badge&logo=invision&logoColor=white" /> <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" /> <img src="https://img.shields.io/badge/Basecamp-1D2D35?style=for-the-badge&logo=basecamp&logoColor=white" />
 
 ---------
