@@ -3,7 +3,9 @@
 <a href="https://www.linkedin.com/in/faithcwalker/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="mailto:faithcorinne@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 
-I'm a Frontend Engineer (E2) @ [Sleepme Inc.](https://sleep.me/) working to bring sleep wellness to the forefront of public conversation. 
+I'm a Frontend Engineer with a passion for making beautiful (and accessible!) user interfaces a thing of reality.
+#### 📭 *I'm currently actively seeking out new full-time opportunities. Let's build something different together!*
+---------
 
 ### 💻 Tech Stack
 #### 👩🏾‍💻 Daily Drivers
@@ -22,13 +24,12 @@ I'm a Frontend Engineer (E2) @ [Sleepme Inc.](https://sleep.me/) working to brin
 When I'm not working I tend to gravitate towards projects that focus on highly conceptual and unique aspects of design, both physical and digital. I am incredibly inspired by the work I've been taking part in recently and can't wait to unveil it to you all!
 
 #### Ongoing Projects
-👀 Secret Project (2021 - 2022) — a creative coding experience with @patszot <br>
+🍕 Savvor App (2022 → ) — A B2B (and soon B2C) web and mobile application putting food trucks right where they need to be with [@MrWinbush](https://github.com/MrWinbush) <br>
+🥀 Rite of Spring (2021 - 2022) — a creative coding experience with @patszot <br>
 🎨 [Eteoy Atelier](https://www.eteoy.com/) (2021 → ) — working with a premier black creative to launch the first of his homegrown luxury clothing line
 
 #### Previous Projects
 🎨 UI Design for [Hackernoon](https://hackernoon.com/) (2019) — created the first iteration of their homepage, article, and search experiences for the site's initial launch <br>
-
-#### 📭 *Currently open to freelance design work. Let's build something different together!*
 
 ---------
 
