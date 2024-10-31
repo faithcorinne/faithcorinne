@@ -4,7 +4,7 @@
 <a href="mailto:faithcorinne@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 
 I'm a Frontend Engineer with a passion for making beautiful (and accessible!) user interfaces a thing of reality.
-#### 📬 *I'm currently actively seeking out new full-time opportunities, and always happy to chat and collaborate on side projects!*
+#### 📪 *I'm not currently seeking out new full-time opportunities, but always happy to chat and collaborate on side projects!*
 ---------
 
 ### 💻 Tech Stack
